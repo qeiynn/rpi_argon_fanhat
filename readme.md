@@ -5,7 +5,7 @@
 
 1. Download and run the "argonfanhat.sh" from this repository to /etc/argon_fanhat.
 ```
-sudo git clone https://github.com/qeiynn/rpi_argon.fan.hat
+sudo git clone https://github.com/qeiynn/rpi_argon_fanhat
 ```
 ```
 sudo bash argonfanhat.sh
