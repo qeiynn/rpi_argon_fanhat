@@ -1,4 +1,4 @@
-# Argon Fan Hat script
+# Argon Fan Hat script (by Argon40)
 ### Tested with raspios
 
 ## Instructions
@@ -27,5 +27,3 @@ argonone-uninstall: uninstall the script
 While Pi is off: a short press turns it on.
 
 While Pi is on: Long press initiates soft shutdown. Double Tap reboots.
-
-made by Argon40
