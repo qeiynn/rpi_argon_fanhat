@@ -16,13 +16,14 @@ sudo bash argonfanhat.sh
 sudo rm -r rpi_argon.fan.hat
 ```
 
-3. Commands:
+Commands:
 
 argonone-config: configure tha fan curve (standard curve is good though).
+
 argonone-uninstall: uninstall the script
 
 
-3. Button funtion:
+Button funtion:
 
 While Pi is off: a short press turns it on.
 
