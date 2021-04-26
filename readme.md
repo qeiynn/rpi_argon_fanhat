@@ -23,6 +23,8 @@ argonone-config: configure tha fan curve (standard curve is good though).
 argonone-uninstall: uninstall the script
 
 
+
+
 Button funtion:
 
 While Pi is off: a short press turns it on.
