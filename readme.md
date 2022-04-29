@@ -13,7 +13,7 @@ sudo bash rpi_argon_fanhat/argonfanhat.sh
 
 2. Delete the downloaded directory (including the script)
 ```
-sudo rm -r rpi_argon.fan.hat
+sudo rm -r rpi_argon_fanhat
 ```
 
 ### Commands:
