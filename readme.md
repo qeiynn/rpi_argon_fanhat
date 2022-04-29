@@ -8,7 +8,7 @@
 sudo git clone https://github.com/qeiynn/rpi_argon_fanhat
 ```
 ```
-sudo bash argonfanhat.sh
+sudo bash rpi_argon_fanhat/argonfanhat.sh
 ```
 
 2. Delete the downloaded directory (including the script)
