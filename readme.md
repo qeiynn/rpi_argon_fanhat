@@ -18,7 +18,7 @@ sudo rm -r rpi_argon_fanhat
 
 ### Commands:
 
-argonone-config: configure tha fan curve (standard curve is good though).
+argonone-config: configure the fan curve (standard curve is good though).
 
 argonone-uninstall: uninstall the script
 
